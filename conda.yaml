@@ -8,9 +8,7 @@ dependencies:
   - cloudpickle=1.2.2
   - pip=20.0.2
   - pip:
-    - mlflow
+    - mlflow=1.30.0
     - influxdb
     - itsdangerous==2.0.1
     - Flask==2.0.3
-    - werkzeug==2.0.3
-    - dataclasses==0.8
