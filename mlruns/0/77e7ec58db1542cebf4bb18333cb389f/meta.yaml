@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ninasandhorup/caiso-mlflow/mlruns/0/77e7ec58db1542cebf4bb18333cb389f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 77e7ec58db1542cebf4bb18333cb389f
+run_name: placid-newt-856
+run_uuid: 77e7ec58db1542cebf4bb18333cb389f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668595228039
+status: 1
+tags: []
+user_id: ninasandhorup

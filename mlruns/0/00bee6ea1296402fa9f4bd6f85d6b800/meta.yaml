@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ninasandhorup/caiso-mlflow/mlruns/0/00bee6ea1296402fa9f4bd6f85d6b800/artifacts
+end_time: 1668595553313
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 00bee6ea1296402fa9f4bd6f85d6b800
+run_name: gaudy-colt-930
+run_uuid: 00bee6ea1296402fa9f4bd6f85d6b800
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668595456255
+status: 3
+tags: []
+user_id: ninasandhorup
